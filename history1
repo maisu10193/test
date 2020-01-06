@@ -1,0 +1,5 @@
+demo()
+demo(package = .packages(all.available = TRUE))
+hello
+hi <- c('hello')
+hi
